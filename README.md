@@ -1,2 +1,2 @@
 # HCM2SR
-our code is avalible util paper is published.
+Our source code and dataset will be published soon.
