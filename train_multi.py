@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# Time  : 2022/5/6
-# Author: slmu
-# Email : mushanlei.msl@alibaba-inc.com
-
 import torch
 import argparse
 
