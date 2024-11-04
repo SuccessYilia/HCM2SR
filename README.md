@@ -7,7 +7,8 @@ HCM$^2$SR is a state-of-the-art recommendation model designed to capture both sh
 
 
 ## Modules
-- **Hybrid Contrastive Learning**: Efficiently captures shared and unique characteristics across different scenarios. The self-supervised signals alleviate data sparsity by utilizing self-supervised learning techniques.
+- **Hybrid Contrastive Learning**: Efficiently captures shared and unique characteristics across different scenarios. The self-supervised signals alleviate data sparsity by utilizing self-supervised learning techniques. Considering that different scenarios contribute differently to each other’s representation capability, a scenario-aware multi-gate network is further de-
+signed to explicitly evaluate the significance of knowledge from other scenarios to the representations in the current scenario.
 - **Adaptive Knowledge Transfer**: Facilitates the transfer of knowledge across various stages to tackle sparsity issues in long-path conversions.
 
 
