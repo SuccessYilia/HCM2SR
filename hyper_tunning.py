@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-# Time  : 2022/4/11
-# Author: slmu
-# Email : mushanlei.msl@alibaba-inc.com
-
 import logging
 import numpy as np
 
