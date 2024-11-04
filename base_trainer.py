@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-# Time  : 2022/4/8
-# Author: slmu
-# Email : mushanlei.msl@alibaba-inc.com
+
 
 import torch
 import torch.optim as optim
