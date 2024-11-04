@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-# Time  : 2022/4/11
-# Author: slmu
-# Email : mushanlei.msl@alibaba-inc.com
+
 
 import torch
 import numpy as np
